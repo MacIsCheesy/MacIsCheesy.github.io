@@ -1,6 +1,3 @@
 body {
 	background-image: linear-gradient(to bottom right, purple, blue, green);
 }
-table, tr, th, td {
-	border: 1px solid;
-}
