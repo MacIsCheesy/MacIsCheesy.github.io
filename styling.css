@@ -1,1 +1,6 @@
-
+body {
+	background-color: purple;
+}
+table, th, td {
+	border: 1px solid;
+}
