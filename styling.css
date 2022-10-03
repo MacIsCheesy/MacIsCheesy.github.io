@@ -1,6 +1,6 @@
 body {
-	background-color: purple;
+	background-image: linear-gradient purple;
 }
-table, th, td {
+table, tr, th, td {
 	border: 1px solid;
 }
