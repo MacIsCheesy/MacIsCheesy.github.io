@@ -1,6 +1,3 @@
-const text = document.getElementById('text');
-
-function changetext() {
-    print("Changing placeholder");
+function myfunc(){
+    document.getElementById('letter').textContent = 'Hello';
 }
-changetext('text');
