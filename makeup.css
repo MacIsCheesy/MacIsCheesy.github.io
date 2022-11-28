@@ -1,0 +1,215 @@
+body {
+    background-color: gainsboro;
+    font-family: sans-serif;
+  }  
+
+h1 {
+    position: absolute;
+    left: 40%;
+    font-size: 200%;
+    color: rgb(89, 56, 15);
+  }
+  title {
+    position: absolute;
+    text-align: center;
+  }
+div.banner {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 24%;
+  width: 100%;
+  overflow: hidden;
+}
+div.background {
+  position:absolute;
+  left: 0;
+  bottom: 0%;
+  height: 76%;
+  width: 100%;
+  overflow: hidden;
+}
+div.text{
+  position: absolute;
+  top: 24%;
+  left: 15%;
+  width: 70%;
+  height: 70%;
+  overflow: hidden;
+  background-color: rgba(245, 245, 245, 0.85);
+}
+div.info {
+  position: absolute;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+  height: 6%;
+  overflow: hidden;
+  background-color: lightslategray;
+  font-size:x-small;
+}
+div.book1 {
+    text-align: center;
+    position: absolute;
+    top: 16%;
+    left: 0%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+div.book2 {
+    text-align: center;
+    position: absolute;
+    top: 16%;
+    left: 20%;
+    width: 20%;
+    height: 8%;
+    background-color: beige;
+  }
+div.book3 {
+    text-align: center;
+    position: absolute;
+    top: 16%;
+    left: 40%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+  div.book4 {
+    text-align: center;
+    position: absolute;
+    top: 16%;
+    left: 60%;
+    width: 20%;
+    height: 8%;
+    background-color: beige;
+  }
+  div.book5 {
+    text-align: center;
+    position: absolute;
+    top: 16%;
+    left: 80%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+  div.book1:hover {
+    background-color: indianred;
+  }
+  div.book2:hover {
+    background-color: indianred;
+  }
+  div.book3:hover {
+    background-color: indianred;
+  }
+  div.book4:hover {
+    background-color: indianred;
+  }
+  div.book5:hover {
+    background-color: indianred;
+  }
+  div.snip1{
+    position: absolute;
+    top: 24%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    overflow: hidden;
+    background-color: wheat;
+    color: black;
+  }
+  div.snip2{
+    position: absolute;
+    top: 31%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    overflow: hidden;
+    text-align: center;
+    background-color: tan;
+    color: black;
+  }
+  div.snip3{
+    position: absolute;
+    top: 38%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: wheat;
+    color: black;
+  }
+  div.snip4{
+    position: absolute;
+    top: 45%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: tan;
+    color: black;
+  }
+  div.snip5{
+    position: absolute;
+    top: 52%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: wheat;
+    color: black;
+  }
+  div.snip6{
+    position: absolute;
+    top: 59%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: tan;
+    color: black;
+  }
+  div.snip7{
+    position: absolute;
+    top: 66%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: wheat;
+    color: black;
+  }
+  div.snip8{
+    position: absolute;
+    top: 73%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: tan;
+    color: black;
+  }
+  div.snip9{
+    position: absolute;
+    top: 80%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: wheat;
+    color: black;
+  }
+  div.snip10{
+    position: absolute;
+    top: 87%;
+    right: 0%;
+    width: 15%;
+    height: 7%;
+    text-align: center;
+    background-color: tan;
+    color: black;
+  }
+p {
+    font-size: 20px;
+  }
