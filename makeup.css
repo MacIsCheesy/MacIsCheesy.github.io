@@ -36,7 +36,7 @@ div.background {
   user-select: none;
   overflow: hidden;
 }
-div.text{
+div.textbox{
   position: absolute;
   top: 24%;
   left: 15%;
