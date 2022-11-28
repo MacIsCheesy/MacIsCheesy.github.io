@@ -1,3 +1,3 @@
 function myfunc(){
-    document.getElementById('letter').textContent = 'Hello';
+    document.getElementById('.letter').textContent = 'Hello';
 }
