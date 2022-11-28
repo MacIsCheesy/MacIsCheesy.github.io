@@ -8,7 +8,7 @@ h1 {
     left: 40%;
     font-size: 250%;
     font-family: Georgia;
-    color: rgb(161, 142, 121);
+    color: rgb(184, 176, 167);
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     z-index: 1;
   }
@@ -53,7 +53,7 @@ div.info {
   height: 6%;
   overflow: hidden;
   background-color: lightslategray;
-  font-size:x-small;
+  font-size: x-small;
 }
 div.book1 {
     text-align: center;
@@ -62,7 +62,9 @@ div.book1 {
     left: 0%;
     width: 20%;
     height: 8%;
-    background-color: grey;
+    font-family: Georgia;
+    color: rgb(58, 45, 26);
+    background-color: antiquewhite;
   }
 div.book2 {
     text-align: center;
@@ -71,7 +73,9 @@ div.book2 {
     left: 20%;
     width: 20%;
     height: 8%;
-    background-color: beige;
+    font-family: Georgia;
+    color: rgb(58, 45, 26);
+    background-color: palegoldenrod;
   }
 div.book3 {
     text-align: center;
@@ -80,7 +84,9 @@ div.book3 {
     left: 40%;
     width: 20%;
     height: 8%;
-    background-color: grey;
+    font-family: Georgia;
+    color: rgb(58, 45, 26);
+    background-color: antiquewhite;
   }
   div.book4 {
     text-align: center;
@@ -89,7 +95,9 @@ div.book3 {
     left: 60%;
     width: 20%;
     height: 8%;
-    background-color: beige;
+    font-family: Georgia;
+    color: rgb(58, 45, 26);
+    background-color: palegoldenrod;
   }
   div.book5 {
     text-align: center;
@@ -98,22 +106,29 @@ div.book3 {
     left: 80%;
     width: 20%;
     height: 8%;
-    background-color: grey;
+    font-family: Georgia;
+    color: rgb(58, 45, 26);
+    background-color: antiquewhite;
   }
   div.book1:hover {
-    background-color: indianred;
+    background-color: lightslategrey;
+    text-decoration:underline;
   }
   div.book2:hover {
-    background-color: indianred;
+    background-color: lightslategray;
+    text-decoration:underline;
   }
   div.book3:hover {
-    background-color: indianred;
+    background-color: lightslategray;
+    text-decoration:underline;
   }
   div.book4:hover {
-    background-color: indianred;
+    background-color: lightslategray;
+    text-decoration:underline;
   }
   div.book5:hover {
-    background-color: indianred;
+    background-color: lightslategray;
+    text-decoration:underline;
   }
   div.snip1{
     position: absolute;
@@ -216,6 +231,47 @@ div.book3 {
     text-align: center;
     background-color: tan;
     color: black;
+  }
+  div.snip1:hover {
+    background-color: lightslategrey;
+    text-decoration:underline;
+  }
+  div.snip2:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+
+  }
+  div.snip3:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip4:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip5:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip6:hover {
+    background-color: lightslategrey;
+    text-decoration:underline;
+  }
+  div.snip7:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip8:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip9:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
+  }
+  div.snip10:hover {
+    background-color: lightslategray;
+    text-decoration:underline;
   }
 p {
     font-size: 20px;
